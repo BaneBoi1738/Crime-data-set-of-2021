@@ -1,0 +1,1 @@
+In this project i have taken a dataset from the Indian Govt site which showcases the crimes committed in the year of 2021 and has all the IPC sections and offences. My aim was to bring light onto this topic and make people more aware. This code is entirely written in Python and has many graphs for the visual representation of the data.
